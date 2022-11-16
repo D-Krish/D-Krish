@@ -27,8 +27,8 @@
   </dl>
   
 <div  align="center" >  
-  <img src="https://drive.google.com/uc?export=view&id=15VEZdBCuh48GHhH-yzb1OMGV8z5zQrSV" width="75%" />
-  
+  <img src="https://drive.google.com/uc?export=view&id=1a6K18kJiX8JGF5Z-VpXABeeI2Si8fQpd" width="50%" align="center" />
+
   </div>
   
   <hr>
